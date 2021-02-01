@@ -1,4 +1,4 @@
-### Hi there! I'm Sindastra...
+### Hi there! I'm Sindastra... 🖖
 
 You might want to check out https://sindastra.github.io or my blog at https://www.sindastra.de
 
