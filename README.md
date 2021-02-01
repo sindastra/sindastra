@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! I'm Sindastra...
+
+You might want to check out https://sindastra.github.io or my blog at https://www.sindastra.de
+
+Follow me on Mastodon: https://mastodon.social/@sindastra
 
 <!--
 **sindastra/sindastra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
