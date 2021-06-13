@@ -1,6 +1,6 @@
 ### Hi there! I'm Sindastra... 🖖
 
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/905751?domain=https%3A%2F%2Fmastodon.social&style=social)](https://mastodon.social/@sindastra)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/330409?domain=https%3A%2F%2Fchaos.social&style=social)](https://chaos.social/@sindastra)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sindastra?style=social)](https://twitter.com/sindastra)
 [![Liberapay patrons](https://img.shields.io/liberapay/patrons/sindastra?style=social)](https://liberapay.com/sindastra)
 
