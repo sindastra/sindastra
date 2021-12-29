@@ -7,6 +7,10 @@
 
 You might want to check out https://sindastra.github.io or my blog at https://www.sindastra.de
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W215OZB)
+
+⬆️ Found anything useful? Tip a coffee! (:
+
 <!--
 **sindastra/sindastra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
