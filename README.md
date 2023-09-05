@@ -5,8 +5,9 @@
 <!--
 [![Twitter Follow](https://img.shields.io/twitter/follow/sindastra?style=social)](https://twitter.com/sindastra)
 -->
+<!--
 [![Liberapay patrons](https://img.shields.io/liberapay/patrons/sindastra?style=social)](https://liberapay.com/sindastra)
-
+-->
 You might want to check out https://sindastra.github.io or my blog at https://www.sindastra.de
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W215OZB)
